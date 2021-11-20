@@ -1,0 +1,87 @@
+@charset "ISO-8859-1";
+.c2{
+	width: 200px;
+    height: 100px;
+	box-sizing: content-box;
+	display: inline;
+	border: black 2px solid;
+	
+}
+
+.c3{
+	border: black 2px solid;
+	width: 200px;
+    height: 100px;
+	box-sizing: content-box;
+	display: inline-block;
+}
+
+.c4{
+	border: lightgreen 2px solid;
+	width: 200px;
+    height: 100px;
+	box-sizing: content-box;
+	display: inline-block;
+	position: fixed;
+	bottom: 0;
+    right: 0;
+	
+}
+
+.c5{
+	border: black 2px solid;
+	width: 200px;
+    height: 100px;
+	box-sizing: content-box;
+	display: inline-block;
+	position: relative;
+	left: 20px;
+}
+
+.c8{
+	border: black 2px solid;
+	width: 200px;
+    height: 100px;
+	box-sizing: content-box;
+	display: inline-block;
+	position: relative;
+	bottom:50px;
+	left:50px;
+}
+.img1{
+	box-sizing: content-box;
+	border: black 2px solid;
+	width: 120px;
+    height: 120px;
+	
+}
+.img2{
+	box-sizing: content-box;
+	display: inline-block;
+	border: black 2px solid;
+	width: 120px;
+    height: 120px;
+    position: relative;
+    
+	
+}
+.img3{
+	box-sizing: content-box;
+	display: inline-block;
+	border: black 2px solid;
+	width: 120px;
+    height: 120px;
+    position: relative;
+    right:20px;
+    
+	
+}
+.img4{
+	box-sizing: content-box;
+	border: black 2px solid;
+	display: block-inline;
+	width: 250px;
+    height: 250px;
+    
+	
+}
